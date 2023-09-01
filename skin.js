@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.13/18080
 // Filename: New Moveis Planejados Basico.ggsk
-// Generated 2023-09-01T19:42:38
+// Generated 2023-09-01T19:58:21
 
 function pano2vrSkin(player,base) {
 	player.addVariable('Node1', 2, false);
